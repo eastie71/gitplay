@@ -1,2 +1,2 @@
 # gitplay
-Play and learn git and processes
+Play and learn git and processes!
